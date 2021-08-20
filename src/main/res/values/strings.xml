@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NetologyVoice</string>
+
+    <string name="action_search_title">Search</string>
+    <string name="action_clear_title">Clear</string>
+
+    <string name="request_hint">What are you interested in?</string>
+
+    <string name="error_do_not_understand">Sorry, I so not understand you!</string>
+    <string name="error_voice_recognition_unavailable">Voice recognition</string>
+    <string name="error_something_went_wrong">Something went wrong</string>
+    <string name="error_tts_is_not_ready">TTS is not ready</string>
+</resources>
